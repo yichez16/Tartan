@@ -10,7 +10,7 @@ Either modify Makefile to specify the path to CUB, or specify CUB_HOME on your m
 
 By default, it will compile with some additional data exchange between CPU and GPU in order to provide updates on screen with each iteration. This reduces performance a bit. Disable these by setting USERFLAGS to ""
 
-%> make CUDA_HOME=/home-2/lbarnes/CUB/cub-1.0.2 USERFLAGS=""
+%> make CUB_HOME =/home/yzhan846/cub/ USERFLAGS=""
 
 ** Running **
 
