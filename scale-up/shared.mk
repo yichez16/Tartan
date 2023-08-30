@@ -31,7 +31,7 @@ CUDA_DIR = /usr/local/cuda-9.1/
 CUDA_DRIVER_DIR = /usr/lib/nvidia-410/
 
 # CUDA SDK installation path
-SDK_DIR = $(HOME)/NVIDIA_GPU_Computing_SDK/
+SDK_DIR = $(HOME)/GPU-Computing-SDK-4.2.9/
 
 # CUDA toolkit libraries
 LIB_DIR = $(CUDA_DIR)/lib64
