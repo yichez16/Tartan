@@ -37,7 +37,7 @@ SDK_DIR = $(HOME)/GPU-Computing-SDK-4.2.9/
 LIB_DIR = $(CUDA_DIR)/lib64
 
 # MPI 
-MPI_DIR = $(HOME)/opt/miniconda2/pkgs/mpich2-1.4.1p1-0/
+MPI_DIR = $(HOME)/opt/mpich2-1.4.1p1/
 
 # compiler
 CC = gcc
